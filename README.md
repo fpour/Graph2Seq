@@ -9,7 +9,9 @@ This repository contains the code to replicate the results in **Graph2Seq** pape
 
 In addition to the main resources, I also checked the following references:
 * [PyTorch Seq2Seq Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+  * The corresponding data can be downloaded from [here](https://download.pytorch.org/tutorial/data.zip).
 * [PyG_gcn](https://github.com/pyg-team/pytorch_geometric/blob/master/examples/gcn.py)
+  * The corresponding data can be downloaded from [here](https://github.com/kimiyoung/planetoid/tree/master/data).
 * [PyG_MP_Net](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/create_gnn.html)
 
 
