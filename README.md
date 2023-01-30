@@ -15,7 +15,7 @@ In addition to the main resources, I also checked the following references:
 * [PyG_MP_Net](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/create_gnn.html)
 
 
-### Requirements
+## Requirements
 * `python==3.9` was used for the implementation.
 * Other dependencies:
 ```{bash}
