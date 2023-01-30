@@ -27,7 +27,7 @@ pandas==1.5
 * Please refer to `requirements.txt` for all the dependencies.
 
 
-## Project Structure
+# Project Structure
 The Graph2Seq model contains two main components. 
 In what follows, an overview of the files implementing these component (and their current state) is elaborated.
 
